@@ -11,6 +11,6 @@ Button subneting;
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Button subneting = findViewById(R.id.subnetting);
-        
+
     }
 }
